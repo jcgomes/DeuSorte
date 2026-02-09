@@ -376,7 +376,6 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 
 ### Relatar Problemas
 - **Issues**: [GitHub Issues](https://github.com/jcgomes/DeuSorte/issues)
-- **Email**: [seu-email@exemplo.com]
 - **Contribuições**: Pull Requests são bem-vindos!
 
 ---
