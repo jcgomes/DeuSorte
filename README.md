@@ -407,5 +407,3 @@ Se este projeto foi útil para você:
 **Versão do software**: 2.0  
 **Python requerido**: 3.8+  
 **Licença**: MIT License
-
-> *"A sorte favorece a mente preparada."* - Louis Pasteur
